@@ -28,6 +28,13 @@ first I calculated the silhoutte score to see how accurate it could create clust
 
 after understanding all the data i used the best features to plot them in a silhoutte plot.
 - to see the distributian
+![bearing_65_score.png](https://github.com/QuintenMM/challenge-clustering/blob/eeeb74cee4f4bb103373b8fa58c9355738543d1d/bearing_65_score.png)
+
+
+![Screenshot from 2021-08-12 07-46-47.png](https://github.com/QuintenMM/challenge-clustering/blob/eeeb74cee4f4bb103373b8fa58c9355738543d1d/Screenshot%20from%202021-08-12%2007-46-47.png)
+
+![Screenshot from 2021-08-12 07-37-56.png](https://github.com/QuintenMM/challenge-clustering/blob/eeeb74cee4f4bb103373b8fa58c9355738543d1d/Screenshot%20from%202021-08-12%2007-37-56.png)
+
 - to see the accuracy 
 - to see the elbowplot 
 
